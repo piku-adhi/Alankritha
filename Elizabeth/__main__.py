@@ -196,7 +196,7 @@ def send_start(update, context):
     ]]
              
 
-    buttons += [[InlineKeyboardButton(text="Close the Menu 🔒",
+    buttons += [[InlineKeyboardButton(text="Close the Menu 💫",
                                   callback_data="close_menu")]]
 
 
@@ -219,8 +219,8 @@ def start_stop(update, context):
 
     chat = update.effective_chat  # type: Optional[Chat]
     first_name = update.effective_user.first_name
-    text = "The menu is closed 🔒"
-    buttons = [[InlineKeyboardButton(text="Reopen Menu 🔓",
+    text = "The menu is closed 💫"
+    buttons = [[InlineKeyboardButton(text="Reopen Menu 💫",
                                      callback_data="bot_start")]]
 
     update.effective_message.reply_text(
