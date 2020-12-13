@@ -53,12 +53,12 @@ buttons += [[InlineKeyboardButton(text="♻️ ADD ME TO YOUR GROUP ♻️",
 ]]
 
 buttons += [[InlineKeyboardButton(text="SOURCE CODE 💫",
-                                  url="https://github.com/P-RINC-E/ELIZABETH"),
-             InlineKeyboardButton(text="🌳SUPPORT",
-                                  url="https://t.me/ELIZABETH_SUPPORT"),
+                                  url="https://github.com/DONOFTELEGRAM/ELIZABETH"),
+             InlineKeyboardButton(text="SUPPORT🌳",
+                                  url="https://t.me/Love_Birds_Official"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="🔒 CLOSE THE MENU 🔒",
+buttons += [[InlineKeyboardButton(text="☘ CLOSE THE MENU ☘",
                                   callback_data="close_menu")]]
 
 
