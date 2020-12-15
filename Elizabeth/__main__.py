@@ -196,7 +196,7 @@ def send_start(update, context):
     ]]
              
 
-    buttons += [[InlineKeyboardButton(text="Close the Menu 💫",
+    buttons += [[InlineKeyboardButton(text="Close the Menu ☘",
                                   callback_data="close_menu")]]
 
 
