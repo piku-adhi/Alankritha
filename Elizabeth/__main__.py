@@ -177,7 +177,7 @@ def start(update, context):
                 disable_web_page_preview=False,
             )
     else:
-        update.effective_message.reply_text("Heya Am Alive 💃")
+        update.effective_message.reply_text("Heya! Am Alive 💃")
 
 
 
