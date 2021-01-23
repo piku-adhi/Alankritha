@@ -53,7 +53,7 @@ buttons += [[InlineKeyboardButton(text="♻️ ADD ME TO YOUR GROUP ♻️",
 ]]
 
 buttons += [[InlineKeyboardButton(text="SOURCE CODE 💫",
-                                  url="https://github.com/DONOFTELEGRAM/ELIZABETH"),
+                                  url="https://github.com/DONOFTELEGRAM/Alankritha"),
              InlineKeyboardButton(text="SUPPORT🌳",
                                   url="https://t.me/Love_Birds_Official"),
 ]]
