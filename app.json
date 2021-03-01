@@ -157,7 +157,7 @@
   ],
   "buildpacks": [
     {
-      "url": "https://github.com/heroku/heroku-buildpack-python-3.9.1"
+      "url": "https://github.com/heroku/heroku-buildpack-python"
 
     },
     {
